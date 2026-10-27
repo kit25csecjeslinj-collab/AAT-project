@@ -1,0 +1,6 @@
+{
+  "name": "PerformanceTrack - Employee Performance Management System",
+  "description": "Enterprise Employee Performance Tracking System built for KIT CSE DBMS AAT Project by Jeslin J. Features MySQL 8.0 integration, HR analytics, employee and review management, and reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
